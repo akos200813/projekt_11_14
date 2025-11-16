@@ -21,4 +21,5 @@ A projekt **csapatban** valósul meg, a feladatok nyomon követésére a **Trell
 ## Forrásanyagok
 
 -Ami az eredeti weboldalon megtalálható képek, bogrek, genyok
+
 -link: https://www.art.yale.edu/
