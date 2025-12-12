@@ -1,6 +1,13 @@
 body {
     background-color: azure;
 }
-nav{
+
+
+nav>div>a, nav>div>ul>li>a{
+    color: white
+}
+
+.masturbál{
+    background-color: #00356B;
     color: white;
 }
