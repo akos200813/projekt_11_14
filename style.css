@@ -1,15 +1,6 @@
 body {
     background-color: azure;
 }
-
-main {
-    width: 60%;
-    margin: auto;
-}
-
-footer {
-    background-color: black;
-    text-align: center;
+nav{
     color: white;
-    
 }
