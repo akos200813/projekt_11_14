@@ -69,27 +69,6 @@ img:hover {
     transform: scale(1.05);
 }
 
-
-.navbar {
-    background-color: #003366;
-    padding: 0.75rem 1rem;
-}
-
-.navbar-brand,
-.nav-link {
-    color: #fff !important;
-    font-weight: 600;
-}
-
-.nav-link.active {
-    border-bottom: 2px solid #e06e00;
-    padding-bottom: 0.25rem;
-}
-
-.nav-link:hover {
-    color: #ffa940 !important;
-}
-
 /* Responsive tweaks */
 @media (max-width: 768px) {
     h1 {
