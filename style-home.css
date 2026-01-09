@@ -23,6 +23,8 @@ header p {
     position: relative;
     overflow: hidden;
     border-radius: 12px;
+    height: 50%;
+    width: 60%;
 }
 
 .hero-image img {
