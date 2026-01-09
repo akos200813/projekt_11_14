@@ -13,7 +13,7 @@ body {
 
 
 .container {
-    max-width: 960px;
+    width: 80%;
     margin: 0 auto;
     padding: 2rem 1rem;
     background-color: #fff;
@@ -37,7 +37,7 @@ h1 {
 
 h2 {
     font-size: 2rem;
-    border-bottom: 2px solid #e06e00;
+    border-bottom: 2px solid #00356b;
     padding-bottom: 0.3rem;
 }
 
@@ -78,4 +78,9 @@ img:hover {
     h2 {
         font-size: 1.5rem;
     }
+}
+
+footer{
+    width: 70%;
+    margin: auto;
 }
