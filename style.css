@@ -1,11 +1,5 @@
-:root {
-  --yale-blue: #00356B;
-  --yale-accent: #286DC0;
-  --yale-light: #9ec3ff;
-}
-
 .navbar-yale {
-  background-color: var(--yale-blue);
+  background-color: #00356B;
 }
 
 .navbar-yale .navbar-brand {
@@ -29,7 +23,7 @@
 }
 
 .navbar-yale .nav-btn:hover {
-  color: var(--yale-light);
+  color: #9ec3ff;
 }
 
 .navbar-yale .nav-btn.active,
@@ -45,5 +39,5 @@
   right: 0;
   bottom: 0;
   height: 2px;
-  background-color: var(--yale-light);
+  background-color: #9ec3ff;
 }
