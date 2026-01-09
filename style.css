@@ -12,7 +12,7 @@ body {
     );
 }
 
-/* Bootstrap card image magasság */
+/* Bootstrap card image magasság AI */
 .card-img-top {
     max-height: 400px;
     object-fit: cover;
