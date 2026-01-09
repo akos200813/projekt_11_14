@@ -1,25 +1,50 @@
-/* Body */
+/* Main */
 body {
-  min-height: 100vh;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background-color: #f5f5f5;
+  color: #00356B;
+  line-height: 1.7;
+  min-height: 100vh;
   background-image:
-    repeating-linear-gradient(
-      45deg,
+    repeating-linear-gradient(45deg,
       rgba(0, 0, 0, 0.03),
       rgba(0, 0, 0, 0.03) 1px,
       transparent 1px,
-      transparent 12px
-    );
+      transparent 12px);
 }
 
-/* Bootstrap card image magasság AI */
-.card-img-top {
-    max-height: 400px;
-    object-fit: cover;
+/* Header */
+header h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+  color: #00356B;
 }
 
+header p {
+  font-size: 1.1rem;
+  color: #555;
+}
 
-/* Navbar */
+/* Section headings */
+section h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  position: relative;
+  color: #00356B;
+}
+
+section h2::after {
+  content: "";
+  width: 60px;
+  height: 4px;
+  background-color: #111;
+  display: block;
+  margin-top: 8px;
+}
+
+/* ===== NAVBAR ===== */
 .navbar-yale {
   background-color: #00356B;
 }
@@ -62,4 +87,20 @@ body {
   bottom: 0;
   height: 2px;
   background-color: #9ec3ff;
+}
+
+/* ===== FOOTER ===== */
+footer {
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+  padding: 2rem 0;
+}
+
+footer a {
+  transition: color 0.3s ease;
+  color: #00356B;
+}
+
+footer a:hover {
+  color: #0d6efd;
 }
