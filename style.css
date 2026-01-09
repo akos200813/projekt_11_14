@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: azure;
 }
@@ -10,4 +11,54 @@ nav>div>a, nav>div>ul>li>a{
 .masturbál{
     background-color: #00356B;
     color: white;
+=======
+:root {
+  --yale-blue: #00356B;
+  --yale-accent: #286DC0;
+  --yale-light: #9ec3ff;
+}
+
+.navbar-yale {
+  background-color: var(--yale-blue);
+}
+
+.navbar-yale .navbar-brand {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.navbar-yale .navbar-brand:hover {
+  color: #ffffff;
+}
+
+.navbar-yale .nav-btn {
+  position: relative;
+  color: #ffffff;
+  background-color: transparent;
+  border: none;
+  padding: 0.45rem 0.9rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+.navbar-yale .nav-btn:hover {
+  color: var(--yale-light);
+}
+
+.navbar-yale .nav-btn.active,
+.navbar-yale .nav-btn[aria-current="page"] {
+  color: #ffffff;
+}
+
+.navbar-yale .nav-btn.active::after,
+.navbar-yale .nav-btn[aria-current="page"]::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 2px;
+  background-color: var(--yale-light);
+>>>>>>> 88732668ca46d485cf79664adc2c08da6cb9f8c8
 }
