@@ -16,7 +16,7 @@ A projekt során a hangsúly a **felhasználói élmény**, a **reszponzív desi
 
 ## Csapatmunka
 A projekt **csapatban** valósul meg, a feladatok nyomon követésére a **Trello** táblát használjuk:  
-- Trello link: [Projekt Trello tábla](https://trello.com/invite/b/691a04afe0121033f7c9eb35/ATTIbe7167344348184d0c9fa359d7d6339069D1E054/proyjektu11r16i)
+- Trello link: [Projekt Trello tábla](https://trello.com/b/N2GIcC5Q/projekt-yale-shchool)
 
 ## Forrásanyagok
 
