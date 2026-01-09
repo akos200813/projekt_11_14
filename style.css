@@ -1,3 +1,4 @@
+/* Body */
 body {
   min-height: 100vh;
   background-color: #f5f5f5;
@@ -11,8 +12,14 @@ body {
     );
 }
 
+/* Bootstrap card image magasság */
+.card-img-top {
+    max-height: 400px;
+    object-fit: cover;
+}
 
 
+/* Navbar */
 .navbar-yale {
   background-color: #00356B;
 }
