@@ -23,3 +23,6 @@ A projekt **csapatban** valósul meg, a feladatok nyomon követésére a **Trell
 -Ami az eredeti weboldalon megtalálható képek, bogrek, genyok
 
 -link: https://www.art.yale.edu/
+
+
+Gelert mondta: [helo](https://akos200813.github.io/projekt_11_14/home.html)
