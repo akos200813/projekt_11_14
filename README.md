@@ -10,7 +10,6 @@ A weboldal főbb menüpontjai és funkciói:
 - Exhibitions  
 - Publications  
 - News  
-- Public Events  
 
 A projekt során a hangsúly a **felhasználói élmény**, a **reszponzív design**, és az **áttekinthető tartalom** megtartásán lesz.  
 
